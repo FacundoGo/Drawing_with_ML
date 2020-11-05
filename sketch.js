@@ -25,7 +25,7 @@ function setup(){
     canvas.mouseReleased(sketchRNNStart);
     // x = width/2;
     // y = height/2;
-    background(255);
+    background('gray');
     // sketchRNN.generate(gotStrokePath);
     console.log('model loaded')
 }
